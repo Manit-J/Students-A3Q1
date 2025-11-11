@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="intialize.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/db_scripts/intialize.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="1c820d21-7e55-42f1-b499-aa5be5a3c49b" namespace="database/&quot;postgres&quot;/schema/&quot;public&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
